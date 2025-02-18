@@ -1,1 +1,3 @@
 ﻿Aquest és el segon nivelll
+Afegint nou text per recrear l'exercici
+"Actualització de Nivell2.txt"
